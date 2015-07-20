@@ -1,0 +1,2 @@
+To run the program and get a webpage of movies you need to run entertainment_center.py
+It creates Movie instances and calls fresh_tomatoes.py method to display the array of movies at the webpage.
